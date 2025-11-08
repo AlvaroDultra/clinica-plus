@@ -1,0 +1,28 @@
+# Diretórios e builds
+/target/
+/build/
+/out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+!mvnw
+!mvnw.cmd
+
+# Variáveis de ambiente e dados locais
+.env
+application-local.properties
